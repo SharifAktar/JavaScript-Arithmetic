@@ -1,0 +1,21 @@
+        input {
+        background-color: #ffe6e6;
+        width: 180px;
+        height: 25px
+    }
+    
+    button {
+        background-color: #00ff80;
+        width: 100px;
+        line-height: 25px;
+    }
+    
+    body {
+        background-color: #85D0EE;
+    }
+    
+    .Multipication {
+        padding-left: 40%;
+        color: #0330fc;
+        font-size: 20px;
+        border: 2px solid: #808080;
